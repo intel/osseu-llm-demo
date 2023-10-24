@@ -17,7 +17,7 @@ backcall==0.2.0
 beautifulsoup4==4.12.2
 bleach==6.0.0
 blinker==1.4
-certifi==2019.11.28
+certifi==2023.7.22
 cffi==1.15.1
 chardet==3.0.4
 charset-normalizer==3.2.0
