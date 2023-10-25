@@ -193,7 +193,7 @@ tornado==6.3.2
 tqdm==4.65.0
 traitlets==5.9.0
 transformers==4.31.0
-Twisted==18.9.0
+Twisted==23.8.0
 typing-extensions==4.7.1
 tzdata==2023.3
 ubuntu-advantage-tools==8001
