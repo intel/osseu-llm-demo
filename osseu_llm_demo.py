@@ -1,16 +1,16 @@
-# FLAN-T5 XXL Demo
-### Efficient AI: Empowering Large Language Models with Intel® Extension for PyTorch to Combat Carbon Emissions
-This demo showcases how Intel® Extension for PyTorch can reduce carbon emissions while maintaining the performance of Large Language Models (LLMs). With just a few lines of code, you will see the improvements that can be achieved in both latency and power consumption. Watch our demo to learn more!
-
-##### Optional: Install libraries. You can find the full list of libraries and the version used for this demo in requirements.txt.
 """
+FLAN-T5 XXL Demo
+Efficient AI: Empowering Large Language Models with Intel Extension for PyTorch to Combat Carbon Emissions
+This demo showcases how Intel Extension for PyTorch can reduce carbon emissions while maintaining the performance of Large Language Models (LLMs). With just a few lines of code, you will see the improvements that can be achieved in both latency and power consumption. Watch our demo to learn more!
+
+Optional: Install libraries. You can find the full list of libraries and the version used for this demo in requirements.txt.
 
 #%pip install gradio
 #%pip install sentencepiece
 #%pip install codecarbon
 #%pip install prometheus_client
-
-"""##### Import libraries and download the model:"""
+"""
+# Import libraries and download the model:
 
 import torch
 import codecarbon
