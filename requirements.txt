@@ -1,0 +1,9 @@
+codecarbon==2.3.1
+gradio==3.50.2
+gradio_client==0.6.1
+intel-extension-for-pytorch==2.1.0
+sentencepiece==0.1.99
+torch==2.1.0
+torchaudio==2.1.0
+torchvision==0.16.0
+transformers==4.34.1
