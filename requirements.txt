@@ -1,5 +1,5 @@
 codecarbon==2.3.1
-gradio==3.50.2
+gradio==4.11.0
 gradio_client==0.6.1
 intel-extension-for-pytorch==2.1.0
 sentencepiece==0.1.99
